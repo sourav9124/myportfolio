@@ -1,17 +1,17 @@
 {
-    "name": "Bharat Agsrwal",
-    "title": "Full Stack Developer, Mobile Application Developer (iOS and Android) and Cyber Security Researcher",
-    "intro": "Some introduction of yours and it can be as much as large",
+    "name": "sourav singh",
+    "title": "Full Stack Web Developer",
+    "intro": "3rd year student pursuing btech cse from Lovely Professional University. ",
     "skills": [{
-            "title": "Skill 1",
+            "title": "javascript",
             "rating": "90"
         },
         {
-            "title": "Skill 2",
+            "title": "php",
             "rating": "97"
         },
         {
-            "title": "Skill 3",
+            "title": "mysqli database",
             "rating": "85"
         },{
             "title": "Skill 4",
@@ -25,8 +25,8 @@
         }
     ],
     "contact": {
-        "location": "Chandigarh University",
-        "phone": "xxxxxxxxxx",
-        "email": "xxxxxx@xxxx.xxx"
+        "location": "Lovely Professional University",
+        "phone": "7978818256",
+        "email": "souravsingh0021@gmail.com"
     }
 }
